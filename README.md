@@ -19,10 +19,16 @@ This means:
 - You are required to complete and submit this project by the deadline of **Tuesday, August 1, 9:00 a.m. NYC time**.
 - You must complete all of the goals to the exact specifications.
 - If you encounter a blocker (technical, personal, a problem with instructions), you should **communicate with me immediately** about this.
-- Treat this like a real takehome interview.
-    - Make it look good (the example screen shots are just a starting point)
-    - Consider edge cases, error handling, and other small touches
-    - Someone who looks at this should want to hire you.
+- Treat this like a real take home interview assignment.
+    - Bottom line: **Someone who looks at this should want to hire you.**
+    - Make it look good (the example screen shots are just a starting point).
+    - Consider edge cases, error handling, and other small touches.
+    - There should be NO errors or warnings in the console.
+    - Your code should be clean, well-formatted and easy to read.
+    - There is no commented-out code in your repos.
+    - You have organized, clear git commits.
+    - You wrote all the code yourself and can explain every line of it: No ChatGPT, no blind copy-pasting from Stack Overflow or from past projects.
+    
 
 ## Detailed requirements
 ### Express API
