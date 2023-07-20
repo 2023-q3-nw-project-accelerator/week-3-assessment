@@ -1,0 +1,98 @@
+[
+  {
+    "id": "425236b4-94a0-464f-873c-d3f18039c96a",
+    "name": "Grandma Pie",
+    "price": 20.0,
+    "image": "",
+    "toppings": ["cheese", "pepperoni", "red sauce", "basil"],
+    "tags": ["thick_crust"],
+    "defaultOrder": 0,
+    "shortDescription": "Our famous Grandma Pie!",
+    "longDescription":
+      "Hand tossed Chicago style pepperoni mayo melted cheese meatball marinara garlic sauteed onions pork pan white pizza. Melted cheese buffalo sauce mozzarella onions ricotta banana peppers chicken ranch party fresh tomatoes sausage Chicago style philly steak platter marinara. Lasagna white pizza hand tossed burnt mouth extra sauce hawaiian chicken and bacon sausage NY style bacon & tomato onions. Mayo black olives garlic sauce bacon & tomato white garlic steak, pizza roll pesto. White pizza pan hand tossed red onions sausage, personal party pie stuffed pizza pesto chicken and bacon ranch ricotta thin crust. Marinara steak philly steak large spinach white pizza bacon mayo fresh tomatoes mushrooms. Chicago style pizza roll spinach sausage white garlic, pie chicken lasagna pineapple chicken and bacon onions ranch bianca ricotta."
+  },
+  {
+    "id": "deebcf71-685b-4e02-881f-376bbe615c20",
+    "name": "Margherita",
+    "price": 11.5,
+    "image": "",
+    "toppings": ["cheese", "red sauce", "basil"],
+    "tags": ["thin_crust", "vegetarian"],
+    "defaultOrder": 1,
+    "shortDescription": "The original classic",
+    "longDescription":
+      "Bbq sauce chicken Chicago style bacon & tomato chicken and bacon platter peppers spinach pineapple. Broccoli stuffed philly chicken hawaiian beef pie pesto pan lasagna chicken wing. Onions black olives pepperoni large sauteed onions lasagna string cheese parmesan fresh tomatoes chicken and bacon Chicago style pie platter anchovies broccoli. Garlic sausage thin crust, pepperoni burnt mouth bianca mayo party extra sauce thin crust peppers. Stuffed crust steak pineapple melted cheese. Black olives pizza roll white pizza chicken and bacon ranch bacon & tomato mozzarella."
+  },
+  {
+    "id": "444ee623-b51f-4023-bc8b-6c6530b7e7f5",
+    "name": "Clam Pie",
+    "price": 25.75,
+    "image": "",
+    "toppings": ["clam", "white sauce"],
+    "tags": ["thin_crust", "shellfish"],
+    "defaultOrder": 2,
+    "shortDescription": "Seafood lovers favorite",
+    "longDescription":
+      "Lorem qui pariatur adipisicing et ut cupidatat nostrud sit anim. Ad cupidatat enim culpa quis eiusmod excepteur magna veniam. Culpa ex et veniam irure amet commodo excepteur sunt dolor consequat aute. Consequat eu ullamco sit nisi cillum dolor incididunt aliqua sunt. Mollit labore minim adipisicing anim."
+  },
+  {
+    "id": "3b3ef5e2-8d53-48cb-a389-1b1ba9229954",
+    "name": "Veggie Pie",
+    "price": 13.0,
+    "image": "",
+    "toppings": ["cheese", "mushroom", "peppers", "onions"],
+    "tags": ["thick_crust", "vegetarian"],
+    "defaultOrder": 3,
+    "shortDescription": "Not just for vegetarians!",
+    "longDescription":
+      "Fresh tomatoes ranch stuffed crust, onions platter NY style banana peppers thin crust melted cheese hand tossed pie  bianca. Marinara sauteed onions personal. Stuffed crust garlic sauce hawaiian, pan white garlic NY style bianca burnt mouth sauteed onions. Thin crust garlic parmesan garlic, fresh tomatoes ricotta party."
+  },
+  {
+    "id": "218c7b47-bcbe-4684-ae55-d8138f1a9bdf",
+    "name": "Hawaiian",
+    "price": 15.5,
+    "image": "",
+    "toppings": ["cheese", "ham", "pineapple", "red sauce"],
+    "tags": ["thin_crust"],
+    "defaultOrder": 4,
+    "shortDescription": "Controversial but delicious",
+    "longDescription":
+      "Mozzarella bbq rib NY style extra cheese parmesan large sauteed onions bbq sauce red onions sausage melted cheese beef pepperoni personal. Hawaiian sausage pepperoni garlic thin crust, bianca meat lovers pepperoni philly chicken white garlic onions parmesan black olives. Chicken wing bbq sauce bianca red onions garlic parmesan, bbq rib pie lasagna peppers ricotta green bell peppers. Spinach black olives burnt mouth, red onions bbq sauce pork pepperoni hawaiian white garlic stuffed thin crust meat lovers green bell peppers. Pepperoni sauteed onions marinara white garlic bacon & tomato green bell peppers, garlic sauce fresh tomatoes philly steak pizza roll."
+  },
+  {
+    "id": "e3e65fbf-9b29-47e6-b383-fe4f8b3eca5e",
+    "name": "Meatballs",
+    "price": 11.0,
+    "image": "",
+    "toppings": [],
+    "tags": ["appetizer"],
+    "defaultOrder": 5,
+    "shortDescription": "That's a spicy meatball",
+    "longDescription":
+      "Pepperoni sausage philly chicken garlic sauce meat lovers, sauteed onions ham green bell peppers. Green bell peppers ham pie pepperoni. Bacon mayo pie red onions meatball burnt mouth, pesto pizza pepperoni fresh tomatoes beef deep crust pork. Deep crust sausage pesto broccoli steak marinara sauteed onions stuffed garlic parmesan bacon meatball personal garlic sauce thin crust."
+  },
+  {
+    "id": "5fa18d47-1f9c-4463-a66b-aeeebff7af10",
+    "name": "Garlic Bread",
+    "price": 6.0,
+    "image": "",
+    "toppings": [],
+    "tags": ["appetizer", "vegetarian"],
+    "defaultOrder": 6,
+    "shortDescription": "Fresh from the oven",
+    "longDescription":
+      "Pizza ipsum dolor amet peppers meat lovers sausage steak pork. Thin crust bbq sauce meatball platter non. Nulla personal laboris fresh tomatoes melted cheese mushrooms mollit white garlic sint buffalo sauce parmesan cupidatat. Garlic sauce ut platter voluptate nisi, do meat lovers. Banana peppers pork platter extra sauce anim."
+  },
+  {
+    "id": "1bae205e-12e5-465a-b2b2-f19ee8a123ca",
+    "name": "Mozarella Sticks",
+    "price": 5.25,
+    "image": "",
+    "toppings": [],
+    "tags": ["appetizer", "vegetarian"],
+    "defaultOrder": 7,
+    "shortDescription": "Cheesy goodness",
+    "longDescription":
+      "Mayo consectetur stuffed spinach sausage onions. Ut quis ut lasagna voluptate bacon & tomato elit enim pizza laboris garlic. Mayo aute thin crust broccoli. Stuffed crust hawaiian string cheese, pork black olives party non bbq rib extra sauce philly steak stuffed melted cheese aute spinach sausage. Tempor platter pizza roll, personal nisi exercitation id sunt dolore black olives mayo beef et."
+  }
+]
